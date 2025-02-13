@@ -1,2 +1,2 @@
-# Unheard-mini-experiment-
-A preliminary experiment into quote detection by Unheard 
+# Unheard mini quote detection experiment 
+Find the data here from the preliminary experiment on quote detection conducted by Unheard.
